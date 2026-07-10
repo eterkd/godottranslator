@@ -1,0 +1,2 @@
+# godottranslator
+godot translator
